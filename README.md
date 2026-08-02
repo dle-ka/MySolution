@@ -58,8 +58,3 @@ All endpoints are documented and available for interactive testing through Swagg
 
 ### Test Results
 ![Tests](./screenshots/tests.png)
-
-
-Telegram: @dle_ka  
-Email: dretogh2@gmail.com  
-GitHub: https://github.com/dle-ka
